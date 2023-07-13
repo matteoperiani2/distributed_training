@@ -6,7 +6,7 @@ from collections import Counter
 from copy import deepcopy
 
 from src.data_preparation import *
-from src.modelling_nn_new import *
+from src.modelling_nn import *
 from src.utils import *
 
 ###############################################################################
